@@ -5,7 +5,7 @@ This project aims to develop a machine learning model to classify banking custom
 
 ## Features
 
-### Data Preprocessing: Includes tokenization, stop word removal, lemmatization, and vectorization.
-### Modeling: Trains multiple classification models like Logistic Regression, Random Forest, and Support Vector Machine.
-### Evaluation: Compares models using accuracy, precision, recall, and F1-score metrics.
-### Deployment: Provides a user-friendly interface to input customer complaints and predict their category.
+-> Data Preprocessing: Includes tokenization, stop word removal, lemmatization, and vectorization.
+-> Modeling: Trains multiple classification models like Logistic Regression, Random Forest, and Support Vector Machine.
+-> Evaluation: Compares models using accuracy, precision, recall, and F1-score metrics.
+-> Deployment: Provides a user-friendly interface to input customer complaints and predict their category.
